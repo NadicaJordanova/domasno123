@@ -1,0 +1,5 @@
+kod za igra
+linija
+linija1
+linija2
+...
