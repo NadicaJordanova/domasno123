@@ -3,3 +3,4 @@ linija
 linija1
 linija2
 ...
+implementacija na tekst broj 1
