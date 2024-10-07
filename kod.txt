@@ -5,3 +5,4 @@ linija2
 ...
 implementacija na tekst broj 1
 popravka na buggit 
+bug12 popravka proba
