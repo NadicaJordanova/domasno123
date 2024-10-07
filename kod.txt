@@ -4,3 +4,4 @@ linija1
 linija2
 ...
 implementacija na tekst broj 1
+popravka na buggit 
